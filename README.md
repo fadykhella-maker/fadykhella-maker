@@ -58,6 +58,9 @@ Nvidia CUDA MI Intelligent Command Center (AI Inferencing) — a live monitoring
 
 ### 🏆 Awards
 
+- Cisco Global Perfect Pitch — First Rank, Data Center/ACI (2015) & Enterprise Networking/IoT (2014), APJC/ANZ
+- Cisco Systems International FY18 Sales Achiever
+- Cisco Global IMPACT Win Award
 - Cisco Sales Champion
 - Cisco Perfect Pitch 2014 — Enterprise Internetworking Architectures
 - Cisco Perfect Pitch 2015 — Data Center and Multi-Clouds
