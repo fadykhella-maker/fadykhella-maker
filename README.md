@@ -19,10 +19,16 @@ This GitHub is where I turn that architecture work into hands-on builds: referen
 - **Networking & cybersecurity** — enterprise and hyperscale design (Nexus, ACI, SRv6, ZTNA, XDR)
 - **High-performance computing (HPC)**
 
-### 📌 Featured project
+### 📌 Featured projects
 
-**[amd-radeon-epyc-ollama-webui-stack-](https://github.com/fadykhella-maker/amd-radeon-epyc-ollama-webui-stack-)**
-A reference deployment for running local LLM inference on AMD Radeon + EPYC hardware using **Ollama** and **Open WebUI** — service configs, model tracking, and containerized setup for standing up a self-hosted AI stack on AMD silicon.
+**[rocm-pytorch-cdna3-rdna4-toolkit](https://github.com/fadykhella-maker/rocm-pytorch-cdna3-rdna4-toolkit)**
+ROCm 7.1.1 + PyTorch 2.11.0 + Docker/vLLM toolkit for AMD CDNA3/RDNA4 GPUs — benchmarks, container images, and deployment scripts for running modern ML workloads on AMD accelerators.
+
+**[amdai-enterprise-command-center](https://github.com/fadykhella-maker/amdai-enterprise-command-center)**
+AMD ROCm Enterprise AI Command Center — a live dashboard for Radeon GPU observability, secure remote inference, and AIM / AI Workbench integration, with real-time monitoring and remote benchmark controls.
+
+**[nvidia-cuda-mi-intelligent-command-center](https://github.com/fadykhella-maker/nvidia-cuda-mi-intelligent-command-center)**
+Nvidia CUDA MI Intelligent Command Center (AI Inferencing) — a live monitoring dashboard for dual Tesla T4 GPUs, demonstrating end-to-end GPU telemetry and CUDA availability testing over a remote Jupyter kernel.
 
 ### 💼 Career
 
@@ -52,9 +58,9 @@ A reference deployment for running local LLM inference on AMD Radeon + EPYC hard
 
 ### 🏆 Awards
 
-- Cisco Global Perfect Pitch — First Rank, Data Center/ACI (2015) & Enterprise Networking/IoT (2014), APJC/ANZ
-- Cisco Systems International FY18 Sales Achiever
-- Cisco Global IMPACT Win Award
+- Cisco Sales Champion
+- Cisco Perfect Pitch 2014 — Enterprise Internetworking Architectures
+- Cisco Perfect Pitch 2015 — Data Center and Multi-Clouds
 
 ### ✍️ Published writing
 
